@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "coderabbit.coderabbit-vscode",
+    "fluxlabs.gsd-2",
+    "bradlc.vscode-tailwindcss",
+    "dbaeumer.vscode-eslint"
+  ]
+}
